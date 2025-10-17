@@ -1,0 +1,11 @@
+{
+  "name": "sum-of-sales-test",
+  "version": "1.0.0",
+  "description": "Create a page that loads a CSV file, sums the sales column, displays total in #total-sales element, and uses Bootstrap 5",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  },
+  "author": "student@example.com",
+  "license": "MIT"
+}
